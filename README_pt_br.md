@@ -17,4 +17,4 @@ Sou um dev do <a href=""><img src="https://image.flaticon.com/icons/png/512/197/
 
 ---
 ### 🧏‍♂️ Traduções do perfil:
-- 🇺🇸/🇬🇧: [Clique aqui](https://github.com/vinciusb/vinciusb/blob/main/README.md)
+- 🇺🇸/🇬🇧: [Click here](https://github.com/vinciusb/vinciusb/blob/main/README.md)
