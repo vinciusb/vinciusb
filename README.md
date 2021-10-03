@@ -6,7 +6,7 @@ I'm a dev from <a href=""><img src="https://image.flaticon.com/icons/png/512/197
 
 - 🔭 I’m currently working on some personal projects.
 - 🌱 I’m currently starting at Data Science 👨‍💻.
-- 📫 How to reach me: vinciusb15999@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
+- 📫 How to reach me: vinicius.braga.freire@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
 - 😄 Pronouns: He/Him.
 - 📕 Attending university at [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
