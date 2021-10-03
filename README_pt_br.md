@@ -5,7 +5,7 @@
 Sou um dev do <a href=""><img src="https://image.flaticon.com/icons/png/512/197/197386.png" width=13 style="height: auto" /></a> **Brasil** e estou na universidade 🤓.
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais.
-- 🌱 Estou aprendendo algumas tecnologias back-end e tentando melhorar meu React 👨‍💻.
+- 🌱 Estou me introduzindo na área de Data Science 👨‍💻.
 - 📫 Entre em contato: vinicius.braga.freire@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
 - 😄 Pronomes: Ele.
 - 📕 Graduando na [Universidade Federal de Minas Gerais](https://ufmg.br/).
