@@ -2,7 +2,7 @@
 
 
 ### 🙋‍♂️ Sobre mim
-Sou um dev do <a href=""><img src="https://image.flaticon.com/icons/png/512/197/197386.png" width=13 style="height: auto" /></a> **Brasil** e estou na universidade 🤓.
+Sou um dev do <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width=13 style="height: auto" /></a> **Brasil** e estou na universidade 🤓.
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais.
 - 🌱 Estou me introduzindo na área de Data Science 👨‍💻.
