@@ -2,7 +2,7 @@
 
 
 ### 🙋‍♂️ About me
-I'm a dev from <a href=""><img src="https://image.flaticon.com/icons/png/512/197/197386.png" width=13 style="height: auto" /></a> **Brazil** and currently attending university 🤓.
+I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width=13 style="height: auto" /></a> **Brazil** and currently attending university 🤓.
 
 - 🔭 I’m working on some personal projects.
 - 🌱 I’m currently starting at Data Science 👨‍💻.
