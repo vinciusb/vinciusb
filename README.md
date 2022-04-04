@@ -13,7 +13,7 @@ I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/1
 ---
 ### 🎯 GitHub Metrics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinciusb&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&exclude_repo=create-react-app,)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinciusb&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🧏‍♂️ Profile translations:
