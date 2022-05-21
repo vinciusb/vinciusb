@@ -4,8 +4,8 @@
 ### 🙋‍♂️ About me
 I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width=13 style="height: auto" /></a> **Brazil** and currently attending university 🤓.
 
-- 🔭 I’m working on some personal projects.
-- 🌱 I’m currently starting at Data Science 👨‍💻.
+- 🔭 I’m working on an undergraduate research and some personal projects.
+- 🌱 I’m currently starting at Back-end techs 👨‍💻.
 - 📫 How to reach me: vinicius.braga.freire@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
 - 😄 Pronouns: He/Him.
 - 📕 Attending university at [Universidade Federal de Minas Gerais](https://ufmg.br/).
