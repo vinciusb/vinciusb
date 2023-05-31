@@ -7,7 +7,6 @@ Sou um dev do <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/19
 - 🔭 Atualmente tenho trabalhado em uma iniciação científica e em projetos pessoais.
 - 🌱 Estou me introduzindo na área de Back-end 👨‍💻.
 - 📫 Entre em contato: vinicius.braga.freire@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
-- 😄 Pronomes: Ele.
 - 📕 Graduando na [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
 ---
