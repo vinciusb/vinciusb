@@ -7,7 +7,6 @@ I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/1
 - 🔭 I'm currently working as an undergraduate researcher and in some personal projects.
 - 🌱 Getting started with Back-end 👨‍💻.
 - 📫 Get in touch: vinicius.braga.freire@gmail.com | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-braga-bb26b5201/).
-- 😄 Pronouns: He/Him.
 - 📕 Attending university at [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
 ---
